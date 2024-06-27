@@ -1,8 +1,5 @@
 # MCU-Software-Essentials
 
-![image](https://github.com/MarkSon-42/MCU-Software-Essentials/assets/84828274/d5deee7a-a44f-49a7-875f-b8f71c15ee08)
-
-
 [차량 부품 컨트롤러] 신입사원에게 들려주는 - MCU SW 직무 기초 개념완성
 
 ### Contents
