@@ -84,4 +84,68 @@
  - cpu : 명령을 수행하는 역할
  - memory : data를 담아두는 역할
   - flash : 전원 off해도 지워지지 않음
-  - RAM : 전원 off하면 값 초기
+  - RAM : 전원 off하면 값 초기화
+
+[Compile]
+C ..... > Build .....> machine language
+
+MCU의 Flash에 data를 옮겨야 한다..! (hex, elf같은 빌드 파일)
+
+debugger 
+
+이것은 가장 유명한 제품을 사례로 알아보자.
+
+![image](https://github.com/MarkSon-42/MCU-Software-Essentials/assets/84828274/389720bf-faa6-48a5-b557-1e6f63a8373d)
+
+아주 작은 싱글 코어 마이크로 컨트롤러 구현 위주의 소규모 임베디드 시스템 부터,
+
+복잡한 SoC(System-on Chip)까지 다양한 개발환경을 지원하는 디버거
+
+- TRACE32로 시뮬레이터, 가상 플랫폼, 실제 하드웨어,
+- 테스트 자동화 및 지속적인 통합(CI)을 제공
+- 통합된 사용자 인터페이스를 통해 모든 것을 제어
+
+
+
+  
+[summery]
+
+ - 오늘날의 전자장치 대부분은 sw에 의해 제어된다
+ - 이 sw를 실행하는 장치가 MCU
+ - C언어를 빌드 (빌드하면 elf, hex파일같은게 생성됨)
+ - 빌드 : 소스코드를 cpu가 이해할 수 있는 기계어로 변환해주는 작업
+
+
+
+
+
+
+
+
+
+
+
+ this is a normal code block.
+     code block test.
+
+
+~~~
+this is a normal code block.
+    code is awesome.
+~~~
+
+
+> 용어정리
+> - 
+
+
+
+
+
+
+
+
+
+
+
+
