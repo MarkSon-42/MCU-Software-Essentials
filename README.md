@@ -131,18 +131,38 @@ this is a normal code block.
     code is awesome.
 ~~~
 
+임베드시스템에서도 메모리는 너무 중요
 
-> 용어정리
-> - 
+메모리 주소
 
+cpu가 값을 읽고 쓸 수 있는 저장장치이다.
 
-
-
-
-
-
+MCU는 메모리 맵이 있다
+- ㅡcu에 할당된 메모리 주소 현황을 나타냄
 
 
+MCU 예시
 
+![image](https://github.com/MarkSon-42/MCU-Software-Essentials/assets/84828274/d9322074-d2e5-43e3-8b8f-3591f4bd1bb5)
+
+
+### 패리펄럴 
+
+: MCU 내부에 패리펄럴들이 내장됨
+
+
+예를들어, 자동차 산업에 쓰이는 CAN이 있음
+
+#### Atmega128  
+
+![image](https://github.com/MarkSon-42/MCU-Software-Essentials/assets/84828274/51ea5bf9-bead-4d6b-bc1e-e3d1415c29d5)
+
+ - MCU는 제조사 마다 제원 정보가 다 다르기 때문에
+ - 꼭.. 공식 문서를 잘 읽어봐야 된다
+ - 특히 원하는 기능을 구현할 챕터는 꼭..!
+
+[Atmega 제조사 공식 홈페이지의 도큐먼트 모음](https://www.microchip.com/en-us/product/atmega128#document-table)
+
+ - ATmega128/L Datasheet Summary를 인쇄하여 대강의 구조 파악.
 
 
